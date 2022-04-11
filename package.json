@@ -22,6 +22,7 @@
     "node-sass": "^4.14.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "moment": "^2.29.1",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
@@ -29,6 +30,7 @@
     "@angular/cli": "~11.2.5",
     "@angular/compiler-cli": "~11.2.6",
     "@types/jasmine": "~3.6.0",
+    "moment": "^2.29.1",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
     "jasmine-core": "~3.6.0",
